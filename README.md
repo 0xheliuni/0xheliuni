@@ -38,10 +38,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                556 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-🌆 Daytime                3274 commits        █████████░░░░░░░░░░░░░░░░   36.52 % 
-🌃 Evening                3694 commits        ██████████░░░░░░░░░░░░░░░   41.20 % 
-🌙 Night                  1442 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
 ```
 
 
