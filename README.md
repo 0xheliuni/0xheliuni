@@ -33,10 +33,26 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5 commits           ████████████████░░░░░░░░░   62.50 % 
+🌆 Daytime                1 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  2 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
 
 
- Last Updated on 05/04/2026 16:35:29 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+```
+
+
+ Last Updated on 06/04/2026 16:44:45 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
